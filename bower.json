@@ -1,0 +1,8 @@
+{
+	"name": "angular-song-rate",
+	"version": "0.0.4",
+	"dependencies": {
+		"bootstrap": "latest",
+		"jquery": "latest"
+	}
+}
